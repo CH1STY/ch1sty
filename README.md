@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="chistyx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+
+[website]: https://ch1sty.github.com
+[facebook]: https://www.facebook.com/CH1STY
+[linkedin]: https://www.linkedin.com/in/ch1sty/
+[instagram]: https://www.instagram.com/chistyx/
