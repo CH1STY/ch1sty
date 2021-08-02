@@ -30,6 +30,7 @@ Here are some ideas to get you started:
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH1STY)](https://github.com/anuraghazra/github-readme-stats) 
 
+![CH1STY GitHub stats](https://github-readme-stats.vercel.app/api?username=CH1STY&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch1sty&" alt="ch1sty" /></p>
 
