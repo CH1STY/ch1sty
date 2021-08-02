@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 ### GITHUB BUCKET
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch1sty&layout=compact)]
+<p><img align="center" src="https://github-readme-stats.ch1sty.vercel.app/api/top-langs?username=ch1sty&show_icons=true&locale=en&layout=compact&langs_count=10" alt="ch1sty" /></p>
+
 
 
 
