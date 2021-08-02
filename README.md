@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I am Muzammel Hossain Chisty 
-<h3>Computer Science Graduate | Full Stack Web Dev </h3>
+<h5>Computer Science Graduate | Full Stack Web Dev </h5>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ch1sty&label=Profile%20views&color=0e75b6&style=social" alt="ch1sty" /> </p>
 
