@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working looking for job
 - 🌱 I’m currently learning web and software development tools
-- 👯 I’m looking to collaborate on Software Engineering Industry
-- 💬 Ask me about any tech related thing
+- 👯 I’m looking to collaborate on Software Engineers, Designers
+- 💬 Ask me about any tech related things
 - ⚡ Fun fact: Love Gaming , Designing & Developing Web Application
 
 ### Connect with me:
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 
 
-### GITHUB ✨✨
-
+### ⚡⚡ GITHUB STATS ✨✨
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH1STY)](https://github.com/anuraghazra/github-readme-stats) 
 
 
