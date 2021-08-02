@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <br />
 <hr><br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1sty" alt="ch1sty" /></a> </p>
+<h1 aling="center">TROPHY CASE</h1>
+<p align="center" style="text:justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1sty" alt="ch1sty" /></a> </p>
 <br>
 <hr>
 
