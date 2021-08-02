@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 <br />
 <hr><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1sty" alt="ch1sty" /></a> </p>
 <br>
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1sty" alt="ch1sty" /></a> </p>
+
 
 ### GITHUB BUCKET
 
