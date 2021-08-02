@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### GITHUB BUCKET
 
-<p><img align="center" src="https://github-readme-stats.ch1sty.vercel.app/api/top-langs?username=ch1sty&show_icons=true&locale=en&layout=compact&langs_count=10" alt="ch1sty" /></p>
+<p><img align="center" src="https://github-readme-stats.CH1STY.vercel.app/api/top-langs?username=CH1STY&show_icons=true&locale=en&layout=compact&langs_count=10" alt="ch1sty" /></p>
 
 
 
