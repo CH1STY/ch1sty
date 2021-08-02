@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <br />
 
+![Ch1sty GitHub stats](https://github-readme-stats.vercel.app/api?username=CH1STY&show_icons=true&theme=radical)
+
 
 [website]: https://ch1sty.github.com
 [facebook]: https://www.facebook.com/CH1STY
