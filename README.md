@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1sty" alt="ch1sty" /></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH1STY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=CH1STY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://ch1sty.github.com
