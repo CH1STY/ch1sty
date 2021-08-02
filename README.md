@@ -18,8 +18,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="chistyx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+<hr><br>
 ![Ch1sty GitHub stats](https://github-readme-stats.vercel.app/api?username=CH1STY&show_icons=true&theme=radical)
+<br>
+<hr>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH1STY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://ch1sty.github.com
