@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Love Gaming , Designing & Developing Web Application
 
 ### Connect with me:
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ch1sty&label=Profile%20views&color=0e75b6&style=social" alt="ch1sty" /> </p>
 [<img align="left" alt="ch1sty.github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ch1sty | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ch1sty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
