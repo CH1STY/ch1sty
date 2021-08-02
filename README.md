@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <br />
 <hr><br>
-![Ch1sty GitHub stats](https://github-readme-stats.vercel.app/api?username=CH1STY&show_icons=true&theme=radical)
 <br>
 <hr>
 
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 
 ### GITHUB BUCKET
 
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH1STY)](https://github.com/anuraghazra/github-readme-stats) </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH1STY)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
