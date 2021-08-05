@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch1sty&" alt="ch1sty" /></p>
 
 
-[website]: https://ch1sty.github.com
+[website]: https://ch1sty.github.io
 [facebook]: https://www.facebook.com/CH1STY
 [linkedin]: https://www.linkedin.com/in/ch1sty/
 [instagram]: https://www.instagram.com/chistyx/
