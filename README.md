@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I am Muzammel Hossain Chisty 
-<h5> Learner | Tech Enthusiast | Knowledge Hungry </h5>
+<h5> | Learner | Tech Enthusiast | Knowledge Hungry | </h5>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ch1sty&label=Profile%20views&color=0e75b6&style=social" alt="ch1sty" /> </p>
 
