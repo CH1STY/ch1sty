@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
+<div align="center">
 
-[<img align="center" style="margin-left:500px" alt="ch1sty.github.io" width="25px" src="https://www.svgrepo.com/show/46221/globe.svg" />][website]
+[<img align="center" alt="ch1sty.github.io" width="25px" src="https://www.svgrepo.com/show/46221/globe.svg" />][website]
 [<img align="center" alt="ch1sty | Facebook" width="25px" src="https://www.svgrepo.com/show/343553/facebook-network-communication-internet-interaction.svg" />][facebook]
 [<img align="center" alt="ch1sty | LinkedIn" width="25px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
 [<img align="center" alt="chistyx | Instagram" width="25px" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" />][instagram]
 
  
-
+</div>
 
 
 <br />
