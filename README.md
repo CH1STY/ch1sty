@@ -5,9 +5,9 @@
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ch1sty&label=Profile%20views&color=0e75b6&style=social" alt="ch1sty" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working looking for job
+
+- 🔭 I’m currently looking for job
 - 🌱 I’m currently learning web and software development tools
 - 👯 I’m looking to collaborate with Software Engineers, Designers
 - 💬 Ask me about any tech related things
