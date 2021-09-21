@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Love Gaming , Designing & Developing Web Application
 
 ### Connect with me:
-[<img align="left" alt="ch1sty.github.io" width="22px" src="https://www.svgrepo.com/show/331724/github-code-source.svg" />][website]
-[<img align="left" alt="ch1sty | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="ch1sty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="chistyx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<p align="center">
+[<img align="left" alt="ch1sty.github.io" width="22px" src="https://www.svgrepo.com/show/46221/globe.svg" />][website]
+[<img align="left" alt="ch1sty | Facebook" width="22px" src="https://www.svgrepo.com/show/343553/facebook-network-communication-internet-interaction.svg" />][facebook]
+[<img align="left" alt="ch1sty | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
+[<img align="left" alt="chistyx | Instagram" width="22px" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" />][instagram]
+</p>
+
 
 <br />
 <hr><br>
