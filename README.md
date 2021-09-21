@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 <hr><br>
 <h3 align="center">TROPHY CASE</h3>
-<p align="center" style="text:justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1sty&theme=dark" alt="ch1sty" /></a> </p>
+<p align="center" style="text:justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1sty&theme=onedark" alt="ch1sty" /></a> </p>
 <br>
 <hr>
 
