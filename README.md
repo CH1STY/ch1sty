@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 <hr><br>
 <h3 align="center">TROPHY CASE</h3>
-<p align="center" style="text:justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1sty" alt="ch1sty" /></a> </p>
+<p align="center" style="text:justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1sty&theme=dark" alt="ch1sty" /></a> </p>
 <br>
 <hr>
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH1STY&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch1sty&" alt="ch1sty" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch1sty&theme=dark" alt="ch1sty" /></p>
 
 
 [website]: https://ch1sty.github.io
