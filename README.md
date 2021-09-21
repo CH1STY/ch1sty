@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ### ⚡⚡ GITHUB STATS ✨✨
 ![CH1STY GitHub stats](https://github-readme-stats.vercel.app/api?username=CH1STY&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH1STY&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH1STY&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch1sty&" alt="ch1sty" /></p>
 
