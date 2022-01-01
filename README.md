@@ -6,9 +6,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ch1sty&label=Profile%20views&color=0e75b6&style=social" alt="ch1sty" /> </p>
 
 
-
-- 🔭 I’m currently looking for job
-- 🌱 I’m currently learning web and software development tools
+- 🔭 Software Engineer 
+- 🌱 I’m currently learning Android Development and Best Practices 
 - 👯 I’m looking to collaborate with Software Engineers, Designers
 - 💬 Ask me about any tech related things
 - ⚡ Fun fact: Love Gaming , Designing & Developing Web Application
